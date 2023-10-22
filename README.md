@@ -19,3 +19,7 @@
 | nargs    | Number of times the argument can be used                 | int, '?', '*', or '+'                                                                      |   |   |
 | required | Indicate whether an argument is required or optional     | True 或 False                                                                              |   |   |
 | type     | Automatically convert an argument to the given type      | int、float、argparse.FileType('w') 或可呼叫的函式                                          |   |   |
+
+
+## 參考的網站:
+https://realpython.com/command-line-interfaces-python-argparse/
